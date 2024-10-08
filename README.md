@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and AI/ML
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkden 
+- 📫 How to reach me linkedIn 
 - 😄 Pronouns: she /her
 - ⚡ Fun fact: i was a biology student
 
