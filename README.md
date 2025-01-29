@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedIn 
 - 😄 Pronouns: she /her
-- ⚡ Fun fact: i was a biology student
+
 
 <!---
 KrithikaPadmashali/KrithikaPadmashali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
