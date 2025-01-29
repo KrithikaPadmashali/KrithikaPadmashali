@@ -1,8 +1,7 @@
 
-## 👋 Hi, I’m Krithika Padmashali
+##                                          👋 Hi, I’m Krithika Padmashali
+# An upcomming Computer Science and Financial Technology engineer
 - 👀 I’m interested in programming and AI/ML
-- 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedIn 
 - 😄 Pronouns: she /her
 
