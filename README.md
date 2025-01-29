@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KrithikaPadmashali
+
+## 👋 Hi, I’m Krithika Padmashali
 - 👀 I’m interested in programming and AI/ML
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...
